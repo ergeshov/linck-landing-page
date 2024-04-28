@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Privacy policy
+title: Privacy Policy
 permalink: /privacy/
 ---
 
 Your privacy policy here
-Use this to generate one for free: https://www.freeprivacypolicy.com/free-privacy-policy-generator.php
