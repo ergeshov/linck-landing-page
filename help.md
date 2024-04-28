@@ -28,4 +28,4 @@ Analytics Insights: Learn how to interpret your page’s performance data.
 Having trouble or can't find what you're looking for? Our support team is here to help you.
 
 ## 📧 Email Us:
-For assistance, send an email to our support team at hello@linck.io. We aim to respond to all inquiries within 24 hours.
+For assistance, send an email to our support team at help@linck.io. We aim to respond to all inquiries within 24 hours.
