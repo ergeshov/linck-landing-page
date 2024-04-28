@@ -4,7 +4,7 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://linck.io">Linck</a> Team
+  copyright: Made with ❤️ by <a href="https://linck.io">Linck</a> Team
   links:
     - title: Help
       url: /help
